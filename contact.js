@@ -1,0 +1,1 @@
+alert("Op deze web pagina kunt u de contact gegevens vinden van Thor Avonds, Lukas Thys, Lode Pollet en Vic Pollet.")

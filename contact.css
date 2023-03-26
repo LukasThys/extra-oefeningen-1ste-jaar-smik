@@ -1,0 +1,36 @@
+td
+{
+    vertical-align: top;
+}
+.bkh {
+	box-shadow:inset 1px 1px 5px 5px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:15px;
+	border:5px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Times New Roman;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:1px 2px 1px #283966;
+}
+.bkh:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.bkh:active {
+	position:relative;
+	top:1px;
+}
+body {
+  background-color: darkcyan;
+}
+h1{
+  color: white;
+}
+p{
+  color: lightblue;
+}
